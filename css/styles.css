@@ -1,0 +1,13 @@
+.p2 {
+  display: none;
+
+}
+#player2-info {
+  background-color: rgb(50, 0, 150, 0.2);
+  color: rgba(200, 30, 10, 0.75);
+}
+
+#player1-info {
+  background-color: rgb(50, 5, 10, 0.2);
+  color: rgba(50, 75, 10, 0.75);
+}
